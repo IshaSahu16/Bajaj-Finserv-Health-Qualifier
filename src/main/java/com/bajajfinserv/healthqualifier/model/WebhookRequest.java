@@ -14,7 +14,7 @@ public class WebhookRequest {
         this.email = email;
     }
 
-    // Getters and Setters
+    // Getters & Setters
     public String getName() {
         return name;
     }
