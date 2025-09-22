@@ -1,0 +1,6 @@
+com\bajajfinserv\healthqualifier\model\WebhookResponse.class
+com\bajajfinserv\healthqualifier\model\SubmissionRequest.class
+com\bajajfinserv\healthqualifier\config\RestTemplateConfig.class
+com\bajajfinserv\healthqualifier\HealthQualifierApplication.class
+com\bajajfinserv\healthqualifier\model\WebhookRequest.class
+com\bajajfinserv\healthqualifier\service\QualifierService.class
